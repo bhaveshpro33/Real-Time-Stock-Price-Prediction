@@ -9,7 +9,7 @@ from datetime import datetime
 st.set_page_config(page_title="Real-Time Stock Predictor", layout="wide")
 
 # Constants
-API_KEY = 'your_api_key_here'  # Replace with your Twelve Data API Key
+API_KEY = '37ed2ada4c144db496b022e22b5c8590'  # Replace with your Twelve Data API Key
 BASE_URL = 'https://api.twelvedata.com/time_series'
 
 st.title("📈 Real-Time Stock Price Predictor")
